@@ -1,0 +1,114 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@1,400;1,600&family=Prata&display=swap');
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    margin: auto;
+}
+.main-section {
+    padding:20px;
+}
+
+.SriLanka {
+    height: 500px;
+    background-image: url("https://www.villanovo.com/images/magazine/article_261_1329_1533904947.jpg");
+    background-repeat: no-repeat;
+}
+
+.DistrettodiAnuradhapura {
+    height: 400px;
+    background-image: url("https://img.traveltriangle.com/blog/wp-content/uploads/2019/09/cover-places-to-visit-in-anuradhapura.jpg");
+    background-repeat: no-repeat;
+}
+
+.KandyCity {
+    height: 500px;
+    background-image: url("https://www.travelife.it/wp-content/uploads/2021/03/kandy-5-1024x681.jpg");
+    background-repeat: no-repeat;
+}
+
+.Ninearchbridge {
+    height: 400px;
+    background-image: url("https://i0.wp.com/amazinglanka.com/wp/wp-content/uploads/2014/09/First-Day-Cover-1.jpg?ssl=1");
+    background-repeat: no-repeat;
+}
+
+.RockofSigiriya {
+    height: 500px;
+    background-image: url("https://ychef.files.bbci.co.uk/976x549/p0b7n6dm.jpg");
+    background-repeat: no-repeat;
+}
+
+.ParconazionalediYala {
+    height: 500px;
+    background-image: url("https://s1.it.atcdn.net/wp-content/uploads/2018/12/yala.jpg");
+    background-repeat: no-repeat;
+}
+
+.Località {
+    color: black;
+    font-family: 'Prata', serif;
+    font-size: 64px;
+    font-weight: 400;
+    margin: 0;
+}
+
+.Regione {
+    color: black;
+    font-family: 'Prata', serif;
+    font-size: 24px;
+    font-weight: 400;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+h5 {
+    margin-top: 0;
+    font-weight: 600;
+    font-style: italic;
+}
+
+h6 {
+    padding: 22px;
+    margin-bottom: 0px;
+    margin-top: 56px;
+    color: white;
+    background: linear-gradient(90deg, rgb(18, 238, 18), rgba(165, 42, 42, 0.782));
+    border-radius: 6px 6px 6px 6px;
+}
+
+ul {
+    padding: initial;
+}
+
+li {
+    display: block;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    padding-left: 22px;
+    border-bottom: 1px solid #dfdfdf;
+}
+
+.Ninearchbridge {
+    text-decoration: none;
+    color: #002eff;
+}
+
+.DistrettodiAnuradhapura {
+    text-decoration: none;
+    color: #ff00bf;
+}
+
+.Metaturistica {
+    text-decoration: none;
+    color: #002eff;
+}
+
+.Nazione {
+    font-size: 2em;
+    color: black;
+}
+
+footer {
+    background-color: black;
+    color: white;
+    padding: 16px;
+}
